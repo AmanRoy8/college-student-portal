@@ -1,0 +1,13 @@
+# Local configuration
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# XAMPP/local files
+*.log
